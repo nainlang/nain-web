@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknain_web=self.webpackChunknain_web||[]).push([[3488],{2571:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/nain-web/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
